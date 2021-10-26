@@ -12,3 +12,5 @@ tkinter:
   pygame:
     pip install pygame
     
+for more please watch the video :
+https://youtu.be/VbxHPwBFqXQ
