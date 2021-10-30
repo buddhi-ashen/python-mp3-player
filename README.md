@@ -4,13 +4,13 @@ In this project we are going to make a mp3 player in python by using pygame and 
 
 please make sure you have install tkinter and pygame in your python directory 
 
-to install
+to install:-
 
-tkinter:
+1) tkinter:
   pip install tkinter
   
-  pygame:
+2) pygame:
     pip install pygame
     
-for more please watch the video :
+for more infor and guide please watch the video :
 https://youtu.be/VbxHPwBFqXQ
