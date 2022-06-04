@@ -12,5 +12,3 @@ to install:-
 2) pygame:
     pip install pygame
     
-for more infor and guide please watch the video :
-https://youtu.be/VbxHPwBFqXQ
